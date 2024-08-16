@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  text-align: center;
+}
+
+.id-input {
+  text-align: center;
+}
+
+.pwd-input {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.login {
+  margin-top: 40px;
+  text-align: center;
+}
+.regist {
+  text-align: center;
+  margin-top: 15px;
+}
